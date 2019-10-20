@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="practicas"/>
+	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/ggbaq/Desktop/vlcj-4.1.0-dist/vlcj-4.1.0/vlcj-4.1.0.jar" sourcepath="C:/Users/ggbaq/Desktop/vlcj-4.1.0-dist/vlcj-4.1.0/vlcj-4.1.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/ggbaq/Desktop/vlcj-4.1.0-dist/vlcj-4.1.0/vlcj-4.1.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
