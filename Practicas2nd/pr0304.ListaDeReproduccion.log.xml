@@ -232,3 +232,29 @@
   <message>17 de noviembre de 2019 18:15:14 CET</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-24T22:54:26</date>
+  <millis>1574632466123</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-24T22:54:26</date>
+  <millis>1574632466135</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>24 de noviembre de 2019 22:54:26 CET</message>
+</record>
+</log>

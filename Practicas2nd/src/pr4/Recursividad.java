@@ -122,12 +122,4 @@ public class Recursividad {
 		}
 	}
 	
-//	public static ArrayList<String> ordenaQuick(ArrayList<String> palabras){
-//		if (palabras.size()==1) {
-//			return palabras;
-//		}else {
-//			
-//		}		
-//	}
-	
 }
