@@ -1,4 +1,4 @@
-package pr00;
+package practicas.pr00;
 
 public class Coche {
 

@@ -1,4 +1,4 @@
-package pr00;
+package practicas.pr00;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;

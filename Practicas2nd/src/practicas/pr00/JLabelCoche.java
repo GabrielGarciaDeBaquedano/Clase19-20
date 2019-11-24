@@ -1,4 +1,4 @@
-package pr00;
+package practicas.pr00;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -13,7 +13,7 @@ public class JLabelCoche extends JLabel {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private double miGiro;
+	private double miGiro = Math.PI/2;
 	public static final int TAMAÑO_COCHE = 100;
 	
 	public JLabelCoche() {

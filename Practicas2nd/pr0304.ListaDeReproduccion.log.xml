@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:01:41</date>
+  <millis>1574010101163</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:01:41</date>
+  <millis>1574010101171</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:01:41 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:03:21</date>
+  <millis>1574010201995</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:03:22</date>
+  <millis>1574010202004</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:03:21 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:03:53</date>
+  <millis>1574010233369</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:03:53</date>
+  <millis>1574010233378</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:03:53 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:09:33</date>
+  <millis>1574010573708</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:09:33</date>
+  <millis>1574010573716</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:09:33 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:12:00</date>
+  <millis>1574010720045</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:12:00</date>
+  <millis>1574010720057</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:12:00 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:12:16</date>
+  <millis>1574010736978</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:12:16</date>
+  <millis>1574010736985</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:12:16 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:13:18</date>
+  <millis>1574010798569</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:13:18</date>
+  <millis>1574010798578</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:13:18 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:14:35</date>
+  <millis>1574010875022</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:14:35</date>
+  <millis>1574010875034</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:14:35 CET</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-17T18:15:14</date>
+  <millis>1574010914188</millis>
+  <sequence>0</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message></message>
+</record>
+<record>
+  <date>2019-11-17T18:15:14</date>
+  <millis>1574010914195</millis>
+  <sequence>1</sequence>
+  <logger>pr0304.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr0304.ListaDeReproduccion</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>16</thread>
+  <message>17 de noviembre de 2019 18:15:14 CET</message>
+</record>
+</log>
